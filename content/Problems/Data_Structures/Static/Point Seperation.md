@@ -1,0 +1,1 @@
+The point separation problem is to store a set of points in the plane and decide whether they all lie on the same side of a query line.
